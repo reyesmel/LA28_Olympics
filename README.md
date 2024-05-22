@@ -8,7 +8,7 @@ USC Viterbi School of Engineering Data Science Program
 #### General Note
 The files for this project are Jupyter Notebooks that scrape data into json files and after data preprocessing, are saved as csv files. As the code runs more csv files will generate and save in the same folder, aside from the files listed below.<br/>
 
-The files included for this project explores the correlations between topics and sentiment in 500,000+ tweets scraped viat Twitter API. Specifically it looks to explore the sentiment towards the LA28 Olympics given that at the time the analysis was conduced, many Angelenos and activist groups were turning to Twitter and other social media to express concerns and negativity towards the event, comparing it to the Super Bowl LVI. Found overall positive sentiment with a significant proportion of neutral responses indicating a notable effect size and uncovered key issues in negative sentiment.<br/>
+The files included for this project explores the correlations between topics and sentiment in 500,000+ tweets scraped via Twitter API. Specifically it explores the sentiment towards the LA28 Olympics given that at the time of analysis, many Angelenos and activist groups were turning to Twitter and other social media to express concerns about the event, comparing it to the Super Bowl LVI. Found overall positive sentiment with a significant proportion of neutral responses indicating a notable effect size and uncovered key issues in negative sentiment.<br/>
 
 #### Packages Required
 * networkx
